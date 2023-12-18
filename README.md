@@ -10,6 +10,7 @@ file.
 This repository is still under construction. 
 More examples may be added soon and the
 existing examples are likely to be improved.
+
 ### Boston housing regression
 Start with this notebook. We go through a typical
 work-flow of training a neural network. We
@@ -47,3 +48,7 @@ the houses with a price above 25 as class 1 and all other houses
 class 0. The results get compared to a generalized
 linear model.
 
+### 2d example student version
+This is a practice exercise to make during the tutorial class.
+Parts of the (sometimes incomplete) code are provided. 
+The contains various tasks and questions that must be completed.
